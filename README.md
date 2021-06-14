@@ -1,5 +1,3 @@
-# Calculadora
-
 # Objetivos :
 
  • Um software correto, fácil de usar e de interface agradável. 
